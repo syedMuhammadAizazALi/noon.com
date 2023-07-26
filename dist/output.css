@@ -1,0 +1,14 @@
+.p-all{
+    color: blue;
+}
+.box1-all{
+    position: relative;
+    background: rgb(255, 240, 190);
+    flex: 1 1 0%;
+    min-width: 0px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.gap-4{
+    gap:20px ;
+}
