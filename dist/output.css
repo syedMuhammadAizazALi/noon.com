@@ -1,3 +1,7 @@
+body{
+    background-color: #dddddd;
+}
+
 .p-all{
     color: blue;
 }
@@ -11,4 +15,55 @@
 }
 .gap-4{
     gap:20px ;
+}
+.box-shop{
+    position: relative;
+    margin-right: 1%;
+    width: 26%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left:1% ;
+    width: 346.06px;
+    height: 410.77px;
+}
+.box-foryou{
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(64, 69, 83);
+    padding: 15px;
+    position: relative;
+    width: 260px;
+    height: 370px;
+}
+.box-foryoumain{
+    position: relative;
+    padding: 15px;
+    background-color: rgb(241, 244, 253);
+    width: 100%;
+}
+.box-school{
+position: relative;
+background: rgb(255, 253, 234);
+min-width: 0px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.box-soon{
+    
+    background: #b8daf4;
+    min-width: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ } 
+ .M-t{
+      margin-top: 200px ;
+    }
+.btn{
+    padding:   5px 0px 5px 0px;
+    background-color: #ffffff;
+    border-color: black;
+    cursor: pointer;
+    flex: 1 1 0%; 
+
 }
