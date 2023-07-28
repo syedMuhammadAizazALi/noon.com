@@ -33,7 +33,7 @@ body{
     color: rgb(64, 69, 83);
     padding: 15px;
     position: relative;
-    width: 260px;
+    width: 250px;
     height: 370px;
 }
 .box-foryoumain{
@@ -59,11 +59,5 @@ padding-bottom: 10px;
  .M-t{
       margin-top: 200px ;
     }
-.btn{
-    padding:   5px 0px 5px 0px;
-    background-color: #ffffff;
-    border-color: black;
-    cursor: pointer;
-    flex: 1 1 0%; 
-
-}
+   
+    
